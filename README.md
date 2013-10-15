@@ -1,0 +1,4 @@
+promediosimple
+==============
+
+un promedio simple
